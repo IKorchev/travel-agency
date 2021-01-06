@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/travel-agency/static/css/main.17a60669.chunk.css",
-    "main.js": "/travel-agency/static/js/main.46d186bb.chunk.js",
-    "main.js.map": "/travel-agency/static/js/main.46d186bb.chunk.js.map",
+    "main.css": "/travel-agency/static/css/main.af3306d0.chunk.css",
+    "main.js": "/travel-agency/static/js/main.931b00cc.chunk.js",
+    "main.js.map": "/travel-agency/static/js/main.931b00cc.chunk.js.map",
     "runtime-main.js": "/travel-agency/static/js/runtime-main.1c19c69b.js",
     "runtime-main.js.map": "/travel-agency/static/js/runtime-main.1c19c69b.js.map",
     "static/css/2.d65fdcc0.chunk.css": "/travel-agency/static/css/2.d65fdcc0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c965a262.chunk.js.map": "/travel-agency/static/js/3.c965a262.chunk.js.map",
     "index.html": "/travel-agency/index.html",
     "static/css/2.d65fdcc0.chunk.css.map": "/travel-agency/static/css/2.d65fdcc0.chunk.css.map",
-    "static/css/main.17a60669.chunk.css.map": "/travel-agency/static/css/main.17a60669.chunk.css.map",
+    "static/css/main.af3306d0.chunk.css.map": "/travel-agency/static/css/main.af3306d0.chunk.css.map",
     "static/js/2.7e43d5af.chunk.js.LICENSE.txt": "/travel-agency/static/js/2.7e43d5af.chunk.js.LICENSE.txt",
     "static/media/London.2dc22d83.jpg": "/travel-agency/static/media/London.2dc22d83.jpg",
     "static/media/NY.6d6abf3d.jpg": "/travel-agency/static/media/NY.6d6abf3d.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.1c19c69b.js",
     "static/css/2.d65fdcc0.chunk.css",
     "static/js/2.7e43d5af.chunk.js",
-    "static/css/main.17a60669.chunk.css",
-    "static/js/main.46d186bb.chunk.js"
+    "static/css/main.af3306d0.chunk.css",
+    "static/js/main.931b00cc.chunk.js"
   ]
 }
