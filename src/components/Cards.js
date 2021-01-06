@@ -26,7 +26,7 @@ const Cards = () => {
         </div>
       </div>
       <div class="card m-4 text-center">
-        <h5 class="card-header text-center">London</h5>
+        <h5 class="card-header text-center">Paris</h5>
         <div class="card-body text-center">
           <img class="card-img-top img-responsive" src={Paris}></img>
           <h5 class="card-title">Special title treatment</h5>
@@ -40,9 +40,9 @@ const Cards = () => {
         </div>
       </div>
       <div class="card m-4 text-center">
-        <h5 class="card-header text-center">London</h5>
-        <div class="card-body text-center">
-          <img class="card-img-top img-responsive" src={Paris}></img>
+        <h5 class="card-header text-center">New York</h5>
+        <div class=" card-body text-center">
+          <img class="card-img-top img-responsive" src={NYC}></img>
           <h5 class="card-title">Special title treatment</h5>
           <p class="card-text">
             With supporting text below as a natural lead-in to additional
@@ -63,8 +63,8 @@ export const CardsServices = () => {
       <div class="card m-4 text-center">
         <h5 class="card-header text-center">London</h5>
         <div class="card-body text-center">
-          <img class="card-img-top img-responsive" src={Plane}></img>
-          <h5 class="card-title">Special title treatment</h5>
+          <img class="svg card-img-top img-responsive" src={Globe}></img>
+          <h5 class="card-title mt-3">Special title treatment</h5>
           <p class="card-text">
             With supporting text below as a natural lead-in to additional
             content.
@@ -78,8 +78,20 @@ export const CardsServices = () => {
       <div class="card m-4 text-center">
         <h5 class="card-header text-center">London</h5>
         <div class="card-body text-center">
-          <img class="card-img-top img-responsive" src={Hotel}></img>
-          <h5 class="card-title">Special title treatment</h5>
+          <img class="svg card-img-top img-responsive" src={Hotel}></img>
+          <h5 class="card-title mt-3">Worldwide</h5>
+          <p>
+          </p>
+          <a href="#" class="btn btn-primary">
+            Go somewhere
+          </a>
+        </div>
+      </div>
+      <div class="card m-4 text-center">
+        <h5 class="card-header text-center">London</h5>
+        <div class="card-body text-center">
+          <img class="svg card-img-top img-responsive" src={Plane}></img>
+          <h5 class="card-title mt-3">Special title treatment</h5>
           <p class="card-text">
             With supporting text below as a natural lead-in to additional
             content.
@@ -92,22 +104,8 @@ export const CardsServices = () => {
       <div class="card m-4 text-center">
         <h5 class="card-header text-center">London</h5>
         <div class="card-body text-center">
-          <img class="card-img-top img-responsive" src={Globe}></img>
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">
-            With supporting text below as a natural lead-in to additional
-            content.
-          </p>
-          <a href="#" class="btn btn-primary">
-            Go somewhere
-          </a>
-        </div>
-      </div>
-      <div class="card m-4 text-center">
-        <h5 class="card-header text-center">London</h5>
-        <div class="card-body text-center">
-          <img class="card-img-top img-responsive" src={Plane}></img>
-          <h5 class="card-title">Special title treatment</h5>
+          <img class="svg card-img-top img-responsive" src={Palm}></img>
+          <h5 class="card-title mt-3">Special title treatment</h5>
           <p class="card-text">
             With supporting text below as a natural lead-in to additional
             content.

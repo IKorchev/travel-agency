@@ -1,3 +1,7 @@
+/* 
+body {
+    overflow-x: hidden;
+} */
 .jumbotron {
     padding: 6rem 1rem;
     background-color: rgba(0, 0, 0, 0.5);
@@ -14,3 +18,25 @@
     border-radius: .3rem;
   }
 
+.card-img-top {
+    max-width:100%;
+    height:auto;
+}
+.contact-links {
+    font-size: 2rem;
+    color: black;
+}
+
+a {
+    text-decoration: none !important;
+
+}
+
+.svg {
+    max-width: 15rem;
+    max-height: 10rem;
+}
+
+.card {
+    min-width:20rem
+}
