@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/IKorchev/travel-agency.git/static/css/main.b3d7d794.chunk.css",
+    "main.js": "/IKorchev/travel-agency.git/static/js/main.46d186bb.chunk.js",
+    "main.js.map": "/IKorchev/travel-agency.git/static/js/main.46d186bb.chunk.js.map",
+    "runtime-main.js": "/IKorchev/travel-agency.git/static/js/runtime-main.021d57a0.js",
+    "runtime-main.js.map": "/IKorchev/travel-agency.git/static/js/runtime-main.021d57a0.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/IKorchev/travel-agency.git/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.7e43d5af.chunk.js": "/IKorchev/travel-agency.git/static/js/2.7e43d5af.chunk.js",
+    "static/js/2.7e43d5af.chunk.js.map": "/IKorchev/travel-agency.git/static/js/2.7e43d5af.chunk.js.map",
+    "static/js/3.c965a262.chunk.js": "/IKorchev/travel-agency.git/static/js/3.c965a262.chunk.js",
+    "static/js/3.c965a262.chunk.js.map": "/IKorchev/travel-agency.git/static/js/3.c965a262.chunk.js.map",
+    "index.html": "/IKorchev/travel-agency.git/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/IKorchev/travel-agency.git/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.b3d7d794.chunk.css.map": "/IKorchev/travel-agency.git/static/css/main.b3d7d794.chunk.css.map",
+    "static/js/2.7e43d5af.chunk.js.LICENSE.txt": "/IKorchev/travel-agency.git/static/js/2.7e43d5af.chunk.js.LICENSE.txt",
+    "static/media/London.2dc22d83.jpg": "/IKorchev/travel-agency.git/static/media/London.2dc22d83.jpg",
+    "static/media/NY.6d6abf3d.jpg": "/IKorchev/travel-agency.git/static/media/NY.6d6abf3d.jpg",
+    "static/media/Paris.d2b2a165.jpg": "/IKorchev/travel-agency.git/static/media/Paris.d2b2a165.jpg",
+    "static/media/App.css": "/IKorchev/travel-agency.git/static/media/jumbo.e472975b.jpg",
+    "static/media/globe-americas-solid.1a7da3cd.svg": "/IKorchev/travel-agency.git/static/media/globe-americas-solid.1a7da3cd.svg",
+    "static/media/hotel-solid.fde80172.svg": "/IKorchev/travel-agency.git/static/media/hotel-solid.fde80172.svg",
+    "static/media/palm-tree.9b079231.svg": "/IKorchev/travel-agency.git/static/media/palm-tree.9b079231.svg",
+    "static/media/plane-solid.659c5977.svg": "/IKorchev/travel-agency.git/static/media/plane-solid.659c5977.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.021d57a0.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.7e43d5af.chunk.js",
+    "static/css/main.b3d7d794.chunk.css",
+    "static/js/main.46d186bb.chunk.js"
+  ]
+}
