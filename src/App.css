@@ -2,41 +2,42 @@
 body {
     overflow-x: hidden;
 } */
-.jumbotron {
-    padding: 6rem 1rem;
-    background-color: rgba(0, 0, 0, 0.5);
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('./assets/jumbo.jpg');
-    background-attachment: fixed;
-    background-position: center;
-  }
-.jumbotron-services {
-    padding: 8rem 1rem;
-    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .5)), url('./assets/Services.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    border-radius: .3rem;
-  }
-
-.card-img-top {
-    max-width:100%;
-    height:auto;
+#jumbotron-home {
+  padding: 6rem 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/jumbo.jpg");
+  /* background-attachment: fixed; */
+  background-position: center;
 }
+#jumbotron-services {
+  padding: 8rem 1rem;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
+    url("./assets/Services.jpg");
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-position: center;
+  border-radius: 0.3rem;
+}
+
 .contact-links {
-    font-size: 2rem;
-    color: black;
+  font-size: 2rem;
+  color: black;
 }
 
 a {
-    text-decoration: none !important;
-
+  text-decoration: none !important;
 }
 
 .svg {
-    max-width: 15rem;
-    max-height: 10rem;
+  max-width: 15rem !important;
+  max-height: 10rem !important;
 }
 
 .card {
-    min-width:20rem
+  min-width: 20rem;
+}
+.card-img-top {
+  max-width: 100%;
+  height: auto;
 }
