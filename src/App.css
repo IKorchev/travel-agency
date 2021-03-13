@@ -13,7 +13,9 @@ body {
   align-items: center;
   height: 400px;
 }
-
+.jumbotron p {
+  font-size: 1.2rem;
+}
 #jumbotron-home {
   height: 600px;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
@@ -61,10 +63,23 @@ a {
   color: black !important;
   background-color: #b6a7f9 !important;
 }
-.card {
-  min-width: 10rem;
-}
+
 .card-img-top {
   max-width: 100%;
   height: auto;
+}
+.card {
+  max-width: 600px;
+}
+.carousel {
+  max-width: 500px;
+}
+
+@media only screen and (max-width: 766px) {
+  .jumbotron {
+    max-height: 500px;
+  }
+  .jumbotron p {
+    font-size: 1rem;
+  }
 }

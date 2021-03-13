@@ -10,7 +10,7 @@ const jumbo_id = "jumbotron-services"
 
 const Services = () => {
   return (
-    <div id='services'>
+    <div id='services' >
       <Jumbotron
         title={jumbo_title}
         text={jumbo_text}

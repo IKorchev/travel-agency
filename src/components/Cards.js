@@ -32,9 +32,9 @@ const pictures = [
 
 const Cards = () => {
   return (
-    <div className='container d-lg-flex justify-content-around'>
+    <div className='row gx-0 justify-content-around align-items-center'>
       {pictures.map((item) => (
-        <div className='col-lg-5 card m-4 text-center' key={item.city}>
+        <div className='col-lg-3 my-2 card text-center' key={item.city}>
           <h5 className='card-header text-center'>{item.city}</h5>
           <div className='card-body text-center'>
             <img

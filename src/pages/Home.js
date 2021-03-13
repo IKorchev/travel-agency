@@ -9,7 +9,10 @@ const jumbo_button_text = "Learn more"
 const jumbo_id = "jumbotron-home"
 const Home = () => {
   return (
-    <div id='home'>
+    <div
+      id='home'
+      role='tabpanel'
+      aria-labelledby='home-tab'>
       <Jumbotron
         title={jumbo_title}
         text={jumbo_text}
