@@ -2,6 +2,7 @@ import React from "react"
 import Globe from "../assets/globe-americas-solid.svg"
 import Plane from "../assets/plane-solid.svg"
 import Palm from "../assets/palm-tree.svg"
+
 const services = [
   {
     img: Globe,
@@ -11,7 +12,7 @@ const services = [
   {
     img: Plane,
     title: "Cheap flight tickets",
-    text: "If you find a cheaper fligh we will match the price!",
+    text: "If you find a cheaper flight we will match the price!",
   },
   {
     img: Palm,
@@ -22,15 +23,15 @@ const services = [
 
 const ServicesCard = () => {
   return (
-    <div class='row justify-content-center'>
+    <div className='row justify-content-center gx-0'>
       {services.map((service) => (
-        <div class='col-md-2 card m-4 text-center'>
-          <h5 class='card-header text-center'>{service.title}</h5>
-          <div class='card-body text-center'>
-            <img class='svg card-img-top' alt={service.title} src={service.img}></img>
-            <h5 class='card-title mt-3'>{service.title}</h5>
-            <p class='card-text'>{service.text}</p>
-            <button class='btn btn-primary'>More info</button>
+        <div className='col-md-2 card m-4 text-center' key={service.title}>
+          <h5 className='card-header text-center'>{service.title}</h5>
+          <div className='card-body text-center'>
+            <img className='svg card-img-top' alt={service.title} src={service.img}></img>
+            <h5 className='card-title mt-3'>{service.title}</h5>
+            <p className='card-text'>{service.text}</p>
+            <button className='btn'>More info</button>
           </div>
         </div>
       ))}

@@ -8,17 +8,17 @@ const Navbar = () => {
         <a className='navbar-brand' href='#home'>
           Travel Agency
         </a>
-        <div className='navbar'>
-          <a className='nav-link py-1 text-dark' href='#home'>
+        <nav className='nav nav-pills nav-fill'>
+          <a className='nav-link active' aria-current='page' href='#home'>
             Home
           </a>
-          <a className='nav-link py-1 text-dark' href='#services'>
+          <a className='nav-link text-dark' href='#services'>
             Services
           </a>
-          <a className='nav-link py-1 text-dark' href='#contact'>
+          <a className='nav-link text-dark' href='#contact'>
             Contact
           </a>
-        </div>
+        </nav>
       </div>
     </nav>
   )

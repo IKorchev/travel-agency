@@ -1,41 +1,68 @@
-/* 
+@import url("https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Open+Sans:wght@400&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
 body {
-    overflow-x: hidden;
-} */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
 #jumbotron-home {
-  padding: 6rem 1rem;
-  background-color: rgba(0, 0, 0, 0.5);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./assets/jumbo.jpg");
-  /* background-attachment: fixed; */
+  height: 600px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./assets/Jumbo_image.jpeg");
   background-position: center;
+  background-size: cover;
 }
 #jumbotron-services {
-  padding: 8rem 1rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
-    url("./assets/Services.jpg");
-  background-size: cover;
-  /* background-attachment: fixed; */
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./assets/customer_service.jpg");
   background-position: center;
-  border-radius: 0.3rem;
+  background-size: cover;
+}
+
+#jumbotron-contact {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("./assets/contact_us.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 .contact-links {
   font-size: 2rem;
-  color: black;
+  color: #452eab;
 }
-
+.contact-links:hover {
+  color: #cd51fc;
+}
 a {
   text-decoration: none !important;
 }
-
+.stars {
+  color: burlywood;
+}
 .svg {
-  max-width: 15rem !important;
-  max-height: 10rem !important;
+  max-width: 10rem !important;
+  max-height: 7rem !important;
 }
 
+.card-body button {
+  color: #f78774 !important;
+  background-color: #1b067a !important;
+}
+.card-body button:hover {
+  color: black !important;
+  background-color: #b6a7f9 !important;
+}
 .card {
-  min-width: 20rem;
+  min-width: 10rem;
 }
 .card-img-top {
   max-width: 100%;
