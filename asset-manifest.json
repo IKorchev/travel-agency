@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/travel-agency/static/css/main.af3306d0.chunk.css",
-    "main.js": "/travel-agency/static/js/main.931b00cc.chunk.js",
-    "main.js.map": "/travel-agency/static/js/main.931b00cc.chunk.js.map",
+    "main.css": "/travel-agency/static/css/main.2eb319c0.chunk.css",
+    "main.js": "/travel-agency/static/js/main.16186de1.chunk.js",
+    "main.js.map": "/travel-agency/static/js/main.16186de1.chunk.js.map",
     "runtime-main.js": "/travel-agency/static/js/runtime-main.1c19c69b.js",
     "runtime-main.js.map": "/travel-agency/static/js/runtime-main.1c19c69b.js.map",
     "static/css/2.d65fdcc0.chunk.css": "/travel-agency/static/css/2.d65fdcc0.chunk.css",
-    "static/js/2.7e43d5af.chunk.js": "/travel-agency/static/js/2.7e43d5af.chunk.js",
-    "static/js/2.7e43d5af.chunk.js.map": "/travel-agency/static/js/2.7e43d5af.chunk.js.map",
+    "static/js/2.98db8706.chunk.js": "/travel-agency/static/js/2.98db8706.chunk.js",
+    "static/js/2.98db8706.chunk.js.map": "/travel-agency/static/js/2.98db8706.chunk.js.map",
     "static/js/3.c965a262.chunk.js": "/travel-agency/static/js/3.c965a262.chunk.js",
     "static/js/3.c965a262.chunk.js.map": "/travel-agency/static/js/3.c965a262.chunk.js.map",
     "index.html": "/travel-agency/index.html",
     "static/css/2.d65fdcc0.chunk.css.map": "/travel-agency/static/css/2.d65fdcc0.chunk.css.map",
-    "static/css/main.af3306d0.chunk.css.map": "/travel-agency/static/css/main.af3306d0.chunk.css.map",
-    "static/js/2.7e43d5af.chunk.js.LICENSE.txt": "/travel-agency/static/js/2.7e43d5af.chunk.js.LICENSE.txt",
+    "static/css/main.2eb319c0.chunk.css.map": "/travel-agency/static/css/main.2eb319c0.chunk.css.map",
+    "static/js/2.98db8706.chunk.js.LICENSE.txt": "/travel-agency/static/js/2.98db8706.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/travel-agency/static/media/customer_service.f0d30c44.jpg",
     "static/media/London.2dc22d83.jpg": "/travel-agency/static/media/London.2dc22d83.jpg",
     "static/media/NY.6d6abf3d.jpg": "/travel-agency/static/media/NY.6d6abf3d.jpg",
     "static/media/Paris.d2b2a165.jpg": "/travel-agency/static/media/Paris.d2b2a165.jpg",
-    "static/media/App.css": "/travel-agency/static/media/jumbo.e472975b.jpg",
-    "static/media/globe-americas-solid.1a7da3cd.svg": "/travel-agency/static/media/globe-americas-solid.1a7da3cd.svg",
-    "static/media/hotel-solid.fde80172.svg": "/travel-agency/static/media/hotel-solid.fde80172.svg",
-    "static/media/palm-tree.9b079231.svg": "/travel-agency/static/media/palm-tree.9b079231.svg",
-    "static/media/plane-solid.659c5977.svg": "/travel-agency/static/media/plane-solid.659c5977.svg"
+    "static/media/globe-americas-solid.1662a847.svg": "/travel-agency/static/media/globe-americas-solid.1662a847.svg",
+    "static/media/palm-tree.3bfc077a.svg": "/travel-agency/static/media/palm-tree.3bfc077a.svg",
+    "static/media/plane-solid.b8447cf1.svg": "/travel-agency/static/media/plane-solid.b8447cf1.svg",
+    "static/media/test-1.4594cc0e.jpg": "/travel-agency/static/media/test-1.4594cc0e.jpg",
+    "static/media/test-2.c89b7cea.jpg": "/travel-agency/static/media/test-2.c89b7cea.jpg",
+    "static/media/test-3.923f534b.jpg": "/travel-agency/static/media/test-3.923f534b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1c19c69b.js",
     "static/css/2.d65fdcc0.chunk.css",
-    "static/js/2.7e43d5af.chunk.js",
-    "static/css/main.af3306d0.chunk.css",
-    "static/js/main.931b00cc.chunk.js"
+    "static/js/2.98db8706.chunk.js",
+    "static/css/main.2eb319c0.chunk.css",
+    "static/js/main.16186de1.chunk.js"
   ]
 }
